@@ -1,0 +1,32 @@
+[
+  {
+    "country": "Cambodia",
+    "pathogen": "Avian influenza A(H5N1)",
+    "notes": "83 cases, 49 deaths in 2025",
+    "source": "https://www.who.int/emergencies/disease-outbreak-news/item/2025-DON575"
+  },
+  {
+    "country": "Guinea",
+    "pathogen": "Mpox (Clade II b)",
+    "notes": "Surging since June; 83 cases, 1 death",
+    "source": "https://cdn.who.int/media/docs/default-source/documents/emergencies/multi-country-outbreak-of-mpox--external-situation-report--55.pdf"
+  },
+  {
+    "country": "USA",
+    "pathogen": "Salmonella & Botulism",
+    "notes": "Recalls tied to cheese and milk products",
+    "source": "https://www.cdc.gov/outbreaks/index.html"
+  },
+  {
+    "country": "India (Kerala)",
+    "pathogen": "Nipah virus",
+    "notes": "Ongoing cases reported",
+    "source": "https://www.promedmail.org/"
+  },
+  {
+    "country": "Japan",
+    "pathogen": "Varicella (chickenpox)",
+    "notes": "Highest reported cases in 5 years",
+    "source": "https://id-info.jihs.go.jp/surveillance/idwr/en/attention/2025/24/index.html"
+  }
+]
