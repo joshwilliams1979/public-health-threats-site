@@ -14,6 +14,3 @@ Updated: **2025-07-19 11:44 UTC**
 - [WHO DON](https://www.who.int/emergencies/disease-outbreak-news)
 - [CDC Outbreaks](https://www.cdc.gov/outbreaks/index.html)
 - [ECDC CDTR](https://www.ecdc.europa.eu/en/publications-data)
-
----
-Automated weekly by ChatGPT.
